@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "xprs": "^0.0.2-hey-thanks-for-checking-out-xprs-hope-you-liked-it.2"
+  },
+  "scripts": {
+    "start": "node tabnine-notion-server.js"
+  }
+}
