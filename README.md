@@ -2,6 +2,8 @@
 
 A proof-of-concept that shows that it is possible to integrate TabNine with Notion.
 
+> ![Demo](docs/images/demo.gif)
+
 **Note:** This project is not a ready-to-use implementation and requires some tinkering.
 
 ## About the proof-of-concept
